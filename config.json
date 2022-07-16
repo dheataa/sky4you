@@ -1,0 +1,19 @@
+{
+    "ownerNumber": ["6285817627091@s.whatsapp.net","79615696897@s.whatsapp.net"],
+    "ownerName": "Skyller OFC",
+    "instagram" : "https://instagram.com/sky4you",
+    "botName": "sky4you-MD",
+    "footer": "Skyller4Dheata",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
